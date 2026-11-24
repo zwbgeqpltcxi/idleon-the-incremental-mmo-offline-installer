@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+The incremental idle MMO where your heroes keep fighting while you're gone! Spend their loot on upgrades, unlock classes from Elemental-Wizard to Cannon-Pirate, and level 20 unique skills like Farming, Sailing, and Construction!
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,13 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **Processor** | An Intel Pentium 4 processor or later that's SSE3 capab… | Intel Core i5 / Apple M1 |
+| **Memory** | 2 GB RAM | 2 GB RAM |
+| **Graphics** | Hardware Accelerated Graphics with dedicated memory | Metal-capable GPU |
+| **Storage** | 1 GB available space | 1 GB available space |
+| **Network** | Broadband Internet connection | Broadband Internet connection |
+| **OS *** | Windows 7+ | Windows 7+ |
+| **Sound Card** | Anything capable of producing sound. | Anything capable of producing sound. |
 
 ---
 
